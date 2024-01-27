@@ -28,8 +28,6 @@ This GIS-based analysis uncovers important socio-economic patterns in Clark Coun
 ## Repository Structure
 - `src/`: Contains source codes.
 - `data/`: Includes raw and processed data files.
-- `docs/`: Documentation and resources.
-- `output/`: Visualizations and result outputs.
 - `ShinyApp/`: Interactive web application for data exploration.
 
 ## Future Directions
