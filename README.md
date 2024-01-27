@@ -3,9 +3,10 @@
 This project explores the relationship between housing and equity in Clark County. It focuses on the accessibility of affordable housing and aims to unravel patterns in poverty distribution, housing affordability, and demographic dynamics, particularly among BIPOC communities.
 
 ## Data Sources
-- **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis. [https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download](#Clark-County-Shapefile-Link)
-- **HUD Data**: Includes data on Fair Market Rents and Small Area Fair Market Rents. [https://www.huduser.gov/portal/datasets/fmr.html#year2024](#HUD-FMR-Link), [https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024](#HUD-SAFMR-Link)
-- **Census Data**: Provides demographic, employment, and income data. [https://censusreporter.org/](#Census-Data-Link)
+- **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis. [Clark County Shapefile]([#Clark-County-Shapefile-Link](https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download))
+- **HUD Data**: Includes data on Fair Market Rents and Small Area Fair Market Rents. [Fair Market Rents Link]([#HUD-FMR-Link](https://www.huduser.gov/portal/datasets/fmr.html#year2024)), [Small Area FMRs Link]([#HUD-SAFMR-Link](https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024))
+- **Census Data**: Provides demographic, employment, and income data. [Census Data Link](#Census-Data-Link)
+
 
 ## GIS Skills and Methodology
 - **Spatial Autocorrelation Analysis**: Application of Global Moran’s I tests to study spatial patterns.
