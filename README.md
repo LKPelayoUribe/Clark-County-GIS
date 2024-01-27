@@ -5,7 +5,7 @@ This project explores the relationship between housing and equity in Clark Count
 ## Data Sources
 - **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis. <a href="https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download" target="_blank">Clark County GIS</a>.
 - **HUD Data**: Includes data on <a href="https://www.huduser.gov/portal/datasets/fmr.html#year2024" target="_blank">Fair Market Rents (FMRs)</a> and <a href="https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024" target="_blank">Small Area FMRs</a>.
-- **Census Data**: Provides demographic, employment, and income data. <a href="#Census-Data-Link" target="_blank">Census Data Link</a>.
+- **Census Data**: Provides demographic, employment, and income data. <a href="https://censusreporter.org/" target="_blank">Census Data Link</a>.
 
 ## GIS Skills and Methodology
 - **Spatial Autocorrelation Analysis**: Application of Global Moran’s I tests to study spatial patterns.
