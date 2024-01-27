@@ -3,7 +3,7 @@
 This project explores the relationship between housing and equity in Clark County. It focuses on the accessibility of affordable housing and aims to unravel patterns in poverty distribution, housing affordability, and demographic dynamics, particularly among BIPOC communities.
 
 ## Data Sources
-- **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis. [Clark County Shapefile]([#Clark-County-Shapefile-Link](https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download))
+- **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis. [Clark County Shapefile](https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download)
 - **HUD Data**: Includes data on [Fair Market Rents (FMRs)](https://www.huduser.gov/portal/datasets/fmr.html#year2024) and [Small Area FMRs](https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024).
 - **Census Data**: Provides demographic, employment, and income data. [Census Data Link](#Census-Data-Link)
 
