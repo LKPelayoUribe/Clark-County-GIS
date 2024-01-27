@@ -3,10 +3,9 @@
 This project explores the relationship between housing and equity in Clark County. It focuses on the accessibility of affordable housing and aims to unravel patterns in poverty distribution, housing affordability, and demographic dynamics, particularly among BIPOC communities.
 
 ## Data Sources
-- **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis [Clark County GIS](https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download).
-- **HUD Data**: Includes data on [Fair Market Rents (FMRs)](https://www.huduser.gov/portal/datasets/fmr.html#year2024) and [Small Area FMRs](https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024).
-- **Census Data**: Provides demographic, employment, and income data [Census Data Link](#Census-Data-Link).
-
+- **Clark County, WA Open Data - Shapefile**: Used for geospatial analysis. <a href="https://hub-clarkcountywa.opendata.arcgis.com/pages/digital-gis-data-download" target="_blank">Clark County GIS</a>.
+- **HUD Data**: Includes data on <a href="https://www.huduser.gov/portal/datasets/fmr.html#year2024" target="_blank">Fair Market Rents (FMRs)</a> and <a href="https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024" target="_blank">Small Area FMRs</a>.
+- **Census Data**: Provides demographic, employment, and income data. <a href="#Census-Data-Link" target="_blank">Census Data Link</a>.
 
 ## GIS Skills and Methodology
 - **Spatial Autocorrelation Analysis**: Application of Global Moran’s I tests to study spatial patterns.
@@ -20,7 +19,7 @@ This project explores the relationship between housing and equity in Clark Count
 - **SNAP Utilization and Employment**: Notable clustering indicating potential links to economic conditions and housing affordability.
 
 ## Interactive Analysis: ShinyApp
-Explore the interactive analysis and visualizations on the ShinyApp: [GIS Analysis of Housing and Equity in Clark County](https://3ipavr-laura.shinyapps.io/Clark-County-GIS-Analysis/)
+Explore the interactive analysis and visualizations on the ShinyApp: <a href="https://3ipavr-laura.shinyapps.io/Clark-County-GIS-Analysis/" target="_blank">GIS Analysis of Housing and Equity in Clark County</a>
 
 ## Conclusion
 This GIS-based analysis uncovers important socio-economic patterns in Clark County, highlighting the need for policy interventions in housing and equity. The project demonstrates the potential of GIS in informing urban planning and social equity decision-making.
