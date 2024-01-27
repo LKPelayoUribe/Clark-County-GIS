@@ -29,6 +29,3 @@ This GIS-based analysis uncovers important socio-economic patterns in Clark Coun
 - `src/`: Contains source codes.
 - `data/`: Includes raw and processed data files.
 - `ShinyApp/`: Interactive web application for data exploration.
-
-## Future Directions
-Further research could explore temporal trends in rent, the impact of gentrification on housing affordability, and the interplay between employment sectors and housing options.
