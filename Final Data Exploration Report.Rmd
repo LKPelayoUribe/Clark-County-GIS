@@ -35,14 +35,11 @@ library(GWmodel)
 
 The objective of this study is to conduct a comprehensive analysis that delves into the relationship between housing and equity. Ideally, Clark County should be envisioned as a place where residents have access to affordable housing.
 
-My data comes from the US department of urban housing and development (HUD), Bureau of Economic Analysis (BEA), U.S. Census Bureau’s, and Clark County, Washington Open Data
+My data comes from the US Department of urban housing and Development (HUD), Bureau of Economic Analysis (BEA), U.S. Census Bureau, and Clark County, Washington Open Data
 
 HUD Data:
 Fair Market Rents (FMRs) for Fiscal Year 2000-2024: https://www.huduser.gov/portal/datasets/fmr.html#year2024
 Small Area Fair Market Rents (SAFMRs) for Fiscal Year 2010-2024:https://www.huduser.gov/portal/datasets/fmr/smallarea/index.html#query_2024
-
-BEA Data:
-Personal Income: https://apps.bea.gov/iTable/?reqid=70&step=1&acrdn=6
 
 Census Data:
 SNAP in the Past 12 Months by Poverty Status in the Past 12 Months for Households: https://censusreporter.org/tables/B22003/
